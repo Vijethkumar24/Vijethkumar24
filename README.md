@@ -6,7 +6,7 @@
 <img  align="right" width="250" alt="programer img " src="https://media4.giphy.com/media/SnVZO1N0Wo6u4/200w.webp?cid=ecf05e47jcajx0v4u3nvuhd2r7hx8z0p6w6uuipguq0v1wch&rid=200w.webp&ct=g">
 
 
-- 🌱 I’m currently learning **java,python,frontend developement**
+- 🌱 I’m currently learning **java,frontend developement**
 
 - 💬 Ask me about **html,css,c,c++**
 
