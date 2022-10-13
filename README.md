@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java,python,frontenddevelopement**
 
-- 💬 Ask me about **html,css,c,c++**
+- 💬 Ask me about **html,css,c++**
 
 - 📫 How to reach me **vkvijethkumar24@gamil.com**
 
