@@ -1,7 +1,7 @@
 <p align="center"><img width="550" src="https://64.media.tumblr.com/1545dd5313531c741c86858b95e79fcf/tumblr_mkqtx4hxaW1s5qslao1_500.gifv"></p>
 
 <img scr="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif"><h1 align="center">Hi 👋, I'm Vijeth Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijethkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="vijethkumar24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijethkumar24&label=Profile%20views&color=09b43a&style=flat" alt="vijethkumar24" /> </p>
 <h2 align="center" padding-bottom="30px" >Passionate to learn something new</h3>
 <img  align="right" width="250" alt="programer img " src="https://media4.giphy.com/media/SnVZO1N0Wo6u4/200w.webp?cid=ecf05e47jcajx0v4u3nvuhd2r7hx8z0p6w6uuipguq0v1wch&rid=200w.webp&ct=g">
 
