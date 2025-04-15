@@ -16,7 +16,7 @@
 
 ### 💫 About Me:
 - 💬 Ask me about **React, Java, Node.js, Express.js**
-- 📫 Reach me at **vkvijethkumar24@gmail.com**
+- 📫 Reach me at **vkvijethkumar18@gmail.com**
 - ⚡ Fun fact: **Love playing Cricket**
 
 <br>
