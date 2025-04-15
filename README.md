@@ -81,7 +81,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/>
   </a>
   <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1664464556/Brand%20Assets/cloudinary_icon_blue_znm9zh.png" alt="Cloudinary" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" alt="Cloudinary" width="48" height="48"/>
   </a>
 
   <!-- Tools -->
