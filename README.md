@@ -14,10 +14,9 @@
 
 <img 
   align="right" 
-  width="400" 
+  width="360" 
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE5eWFvdXFqbnNhN3p2cXVjOXA5eW1xcjQwNmZ6ZnQ2d20yZXNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" 
   alt="Programmer GIF"
-  style="border-radius: 50px; background: rgba(255, 255, 255, 0.05); box-shadow: 0 4px 16px rgba(0,0,0,0.2);"
 />
 
 ### 💫 About Me:
